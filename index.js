@@ -20,7 +20,7 @@ console.log(12000 + (12000 * interestRate));
 let nameStudent = 'John'; // string literal
 let age = 35; // number literal
 let isArrived = true; // boolean literal
-let firstName = undefined; // undefined
+let myName = undefined; // undefined
 let selectedName = null; // object
 
 // check type: typeof + variable
